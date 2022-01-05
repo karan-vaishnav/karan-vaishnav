@@ -51,6 +51,5 @@
 
 </p>
 
-## ❤ Followers & Stars
-<a href="https://github.com/karan-vaishnav?tab=stars"><img src = "https://img.shields.io/badge/Stars%20-21-blue">
+## ❤ Followers
 <a href="https://github.com/karan-vaishnav?tab=followers"><img src="https://img.shields.io/github/followers/karan-vaishnav?label=Followers&style=social" alt="GitHub Badge"></a>
