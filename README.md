@@ -2,13 +2,13 @@
 <h3 align="center">I'm a passionate Web Developer</h3>
 
 
-## 🙋‍♀️ About Me
+## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on various projects related to web development.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Github Repo](https://github.com/karan-vaishnav)**
+- 🧑‍💻 All of my projects are available at **[My Github Repo](https://github.com/karan-vaishnav)**
 
 - 📫 How to reach me **krn.vaishnav11@gmail.com**
 
