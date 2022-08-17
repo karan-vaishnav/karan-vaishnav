@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 🧑‍💻 All of my projects are available at **[My Github Repo](https://github.com/karan-vaishnav)**
+- 🧑‍💻 All of my projects are available at **[My Github Repo](https://github.com/karan-vaishnav?tab=repositories)**
 
 - 📫 How to reach me **krn.vaishnav11@gmail.com**
 
