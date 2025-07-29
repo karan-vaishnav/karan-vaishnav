@@ -52,9 +52,8 @@ I am an Associate Software Engineer and full-stack developer with hands-on exper
 
 ## 🏆 Achievements
 
-- Selected as one of the Top 30 teams out of 70,000+ applications in Samsung Solve for Tomorrow 2023.  
-- Proposed using menstrual blood for early detection of cervical and endometrial cancer, promoting awareness of its potential.  
-- Created a community-driven job portal and engaged a tech-focused audience with 13k+ impressions and 450+ followers on Twitter/X in 2 months.
+- Selected as one of the **Top 30** teams out of 70,000+ applications in **Samsung Solve for Tomorrow 2023**.  
+- Proposed using menstrual blood for early detection of cervical and endometrial cancer, promoting awareness of its potential.
 
 ---
 
