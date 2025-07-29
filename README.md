@@ -49,7 +49,6 @@ I am an Associate Software Engineer and full-stack developer with hands-on exper
 - [secondbrain-ly](https://github.com/karan-vaishnav/secondbrain-ly) - TypeScript project with microservices and JWT auth
 - [snapwit](https://github.com/karan-vaishnav/snapwit) - TypeScript project
 - [course-selling-app](https://github.com/karan-vaishnav/course-selling-app) - Backend course management with JWT & MongoDB
-- [gitCheetSheet](https://github.com/karan-vaishnav/gitCheetSheet) - Helpful cheatsheet project in HTML
 
 ---
 
