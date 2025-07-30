@@ -1,13 +1,14 @@
 # Hi there, I'm Karan Vaishnav 👋
 
-<!-- Visitor Count Badge -->
-![Visitor Count](https://komarev.com/ghpvc/?username=karan-vaishnav&label=Profile%20views&color=0e75b6&style=flat)
+<!-- Visitor Badge -->
+![Visitor Count](https://komarev.com/ghpvc/?username=karan-vaishnav&label=Profile%20views&color=0e75b6&style=flat)[^1]
 
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karan-vaishnav&show_icons=true&theme=radical)
+<!-- Github Contributions -->
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=karan-vaishnav&show_icons=true&theme=radical)[^2]
 
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karan-vaishnav&layout=compact&theme=radical)
+<!-- Streak and Top Langs -->
+![GitHub Streak](https://streak-stats.demolab.com?user=karan-vaishnav&theme=radical&date_format=M%20j%5B%2C%20Y%5D)[^3]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karan-vaishnav&layout=compact&theme=radical)[^2]
 
 ---
 
